@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author: MyString
+  isbn: MyString
+  cover_image: MyString
+  description: MyText
+  total_copies: 1
+  genre: MyString
+  publication_details: MyString
+  available_copies: 1
+  avg_rating: 1.5
+
+two:
+  title: MyString
+  author: MyString
+  isbn: MyString
+  cover_image: MyString
+  description: MyText
+  total_copies: 1
+  genre: MyString
+  publication_details: MyString
+  available_copies: 1
+  avg_rating: 1.5
